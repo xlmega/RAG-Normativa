@@ -1,10 +1,6 @@
 
 # Informe Técnico: Evaluación y Desistimiento de Implementación en n8n
 
-**Fecha:** 12 de mayo de 2026
-
-**Asunto:** Problemas de flujo y paso de datos en n8n con disparadores de Chat y Webhooks.
-
 ## 1. Resumen de la Situación
 
 Se intentó desarrollar una arquitectura de IA agéntica utilizando **n8n** y **Ollama** como motor de inferencia local. Tras validar que el servidor Ollama funciona correctamente de forma independiente y con modelos ligeros, se identificaron fallos críticos en la gestión de datos dentro de los flujos de n8n que impidieron la implementación.
